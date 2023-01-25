@@ -1,0 +1,81 @@
+*{
+    background-color: black;
+    color: wheat;
+}
+.App{
+    height: 100%;
+}
+.para{
+    font-size: 2rem;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    color: rgb(47, 7, 7);
+    font-weight: bold;
+}
+.para--box{
+    border: 2px solid whitesmoke;
+    margin-top: -20px;
+}
+.danger-color{
+    color: red;
+    background-color: white;
+}
+.success-color{
+    color: rgb(213, 192, 192);
+    background-color: brown;
+}
+.input--box{
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: -210px;
+    font-size: 2rem;
+    padding-left: 300px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.count-down-box{
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(169, 163, 163);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    
+}
+.for--count-down{
+    font-weight: bold;
+    font-size: 5rem;
+}
+.button-start{
+    margin-top: -25px;
+    margin-left: 40px;
+    width: 150px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 165px;
+    border: 2px solid rgb(34, 34, 35);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.master--logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 390px;
+    border: 2px solid rgb(34, 34, 35);
+    font-size: 10rem;
+    font-weight: bold;
+}
